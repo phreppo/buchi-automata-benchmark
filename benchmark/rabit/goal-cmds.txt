@@ -1,0 +1,14 @@
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/bakery/bakeryA.ba; $y = load -c BA included/bakery/bakeryB.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/bakeryv2/bakeryV2A.ba; $y = load -c BA included/bakeryv2/bakeryV2B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/fischer/fischerA.ba; $y = load -c BA included/fischer/fischerB.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/fischerv3/fischerV3A.ba; $y = load -c BA included/fischerv3/fischerV3B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/peterson/petersonA.ba; $y = load -c BA included/peterson/petersonB.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/fischerv2/fischerV2A.ba; $y = load -c BA included/fischerv2/fischerV2B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/fischerv4/fischerV4A.ba; $y = load -c BA included/fischerv4/fischerV4B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/mcs/mcsA.ba; $y = load -c BA included/mcs/mcsB.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA included/phils/philsA.ba; $y = load -c BA included/phils/philsB.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA notincluded/bakeryv3/bakeryV3A.ba; $y = load -c BA notincluded/bakeryv3/bakeryV3B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA notincluded/fischerv5/fischerV5A.ba; $y = load -c BA notincluded/fischerv5/fischerV5B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA notincluded/philsv2/philsV2A.ba; $y = load -c BA notincluded/philsv2/philsV2B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA notincluded/philsv3/philsV3A.ba; $y = load -c BA notincluded/philsv3/philsV3B.ba; containment -m piterman $x $y;') 2>&1
+(set -x; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA notincluded/philsv4/philsV4A.ba; $y = load -c BA notincluded/philsv4/philsV4B.ba; containment -m piterman $x $y;') 2>&1

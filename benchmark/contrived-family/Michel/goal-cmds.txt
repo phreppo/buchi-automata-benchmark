@@ -1,0 +1,3 @@
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A4.ba    ; $y = load -c BA Michel4.ba; containment -m piterman $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A4.ba    ; $y = load -c BA Michel5.ba; containment -m piterman $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A5.ba    ; $y = load -c BA Michel5.ba; containment -m piterman $x $y;') 2>&1

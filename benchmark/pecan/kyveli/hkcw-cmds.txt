@@ -1,0 +1,11 @@
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A4.autfilt.ba.hkc2 B4.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A5.aligned.hoa.ba.hkc2 B5.autfilt.aligned.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A7.autfilt.ba.hkc2 B7.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A8.autfilt.ba.hkc2 B8.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A9.autfilt.ba.hkc2 B9.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A10.autfilt.ba.hkc2 B10.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A11.autfilt.ba.hkc2 B11.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A12.autfilt.ba.hkc2 B12.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A13.autfilt.ba.hkc2 B13.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 A14.autfilt.ba.hkc2 B14.autfilt.ba.hkc2) 2>&1
+(set -x; time -p $HOME/hkcw/hkcw.native -stat -incl2 C14.aligned.aut.hoa.ba.hkc2 B13.autfilt.ba.hkc2) 2>&1

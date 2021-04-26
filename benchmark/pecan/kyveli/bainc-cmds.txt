@@ -1,0 +1,11 @@
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A4.autfilt.ba  -b B4.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A5.aligned.hoa.ba -b B5.autfilt.aligned.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A7.autfilt.ba  -b B7.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A8.autfilt.ba  -b B8.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A9.autfilt.ba  -b B9.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A10.autfilt.ba -b B10.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A11.autfilt.ba -b B11.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A12.autfilt.ba -b B12.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A13.autfilt.ba -b B13.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A14.autfilt.ba -b B14.autfilt.ba -d 1) 2>&1
+(set -x; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a C14.aligned.aut.hoa.ba -b B13.autfilt.ba -d 1) 2>&1

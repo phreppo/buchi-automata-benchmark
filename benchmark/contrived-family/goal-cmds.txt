@@ -1,0 +1,9 @@
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A1.ba    ; $y = load -c BA B1.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A10.ba   ; $y = load -c BA B10.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A100.ba  ; $y = load -c BA B100.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A1000.ba ; $y = load -c BA B1000.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A10000.ba; $y = load -c BA B10000.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A20000.ba; $y = load -c BA B20000.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A30000.ba; $y = load -c BA B30000.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A40000.ba; $y = load -c BA B40000.ba; containment -m slice $x $y;') 2>&1
+(set -x ; time -p $HOME/GOAL-20200822/goal batch '$x = load -c BA A50000.ba; $y = load -c BA B50000.ba; containment -m slice $x $y;') 2>&1

@@ -1,0 +1,9 @@
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A1.ba -b B1.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A10.ba -b B10.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A100.ba -b B100.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A1000.ba -b B1000.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A10000.ba -b B10000.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A20000.ba -b B20000.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A30000.ba -b B30000.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A40000.ba -b B40000.ba -d 1) 2>&1
+(set -x ; java -jar $HOME/owl-poc/build/libs/owl-poc.jar -a A50000.ba -b B50000.ba -d 1) 2>&1

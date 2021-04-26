@@ -1,0 +1,14 @@
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/bakery/bakeryA.ba included/bakery/bakeryB.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/bakeryv2/bakeryV2A.ba included/bakeryv2/bakeryV2B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/fischer/fischerA.ba included/fischer/fischerB.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/fischerv2/fischerV2A.ba included/fischerv2/fischerV2B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/fischerv3/fischerV3A.ba included/fischerv3/fischerV3B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/fischerv4/fischerV4A.ba included/fischerv4/fischerV4B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/mcs/mcsA.ba included/mcs/mcsB.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/peterson/petersonA.ba included/peterson/petersonB.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include included/phils/philsA.ba included/phils/philsB.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include notincluded/bakeryv3/bakeryV3A.ba notincluded/bakeryv3/bakeryV3B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include notincluded/fischerv5/fischerV5A.ba notincluded/fischerv5/fischerV5B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include notincluded/philsv2/philsV2A.ba notincluded/philsv2/philsV2B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include notincluded/philsv3/philsV3A.ba notincluded/philsv3/philsV3B.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include notincluded/philsv4/philsV4A.ba notincluded/philsv4/philsV4B.ba -v 1) 2>&1

@@ -1,0 +1,9 @@
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A1.ba B1.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A10.ba B10.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A100.ba B100.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A1000.ba B1000.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A10000.ba B10000.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A20000.ba B20000.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A30000.ba B30000.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A40000.ba B40000.ba -v 1) 2>&1
+(set -x ; time -p java -jar $HOME/roll-library/ROLL.jar include A50000.ba B50000.ba -v 1) 2>&1

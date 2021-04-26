@@ -1,0 +1,11 @@
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A4.autfilt.ba B4.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A5.aligned.hoa.ba B5.autfilt.aligned.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A7.autfilt.ba B7.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A8.autfilt.ba B8.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A9.autfilt.ba B9.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A10.autfilt.ba B10.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A11.autfilt.ba B11.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A12.autfilt.ba B12.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A13.autfilt.ba B13.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include A14.autfilt.ba B14.autfilt.ba -v 1) 2>&1
+(set -x; time -p java -jar $HOME/roll-library/ROLL.jar include C14.aligned.aut.hoa.ba B13.autfilt.ba -v 1) 2>&1

@@ -1,0 +1,9 @@
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A1.ba B1.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A10.ba B10.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A100.ba B100.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A1000.ba B1000.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A10000.ba B10000.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A20000.ba B20000.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A30000.ba B30000.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A40000.ba B40000.ba -fast -jf -v) 2>&1
+(set -x ; java -jar $HOME/RABIT250/RABIT.jar A50000.ba B50000.ba -fast -jf -v) 2>&1
