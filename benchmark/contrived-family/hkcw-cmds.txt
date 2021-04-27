@@ -1,9 +1,0 @@
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A1.ba.hkc2     B1.ba.hkc2    ) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A10.ba.hkc2    B10.ba.hkc2   ) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A100.ba.hkc2   B100.ba.hkc2  ) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A1000.ba.hkc2  B1000.ba.hkc2 ) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A10000.ba.hkc2 B10000.ba.hkc2) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A20000.ba.hkc2 B20000.ba.hkc2) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A30000.ba.hkc2 B30000.ba.hkc2) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A40000.ba.hkc2 B40000.ba.hkc2) 2>&1
-(set -x ; time -p $HOME/hkcw/hkcw.native -stat -incl2 A50000.ba.hkc2 B50000.ba.hkc2) 2>&1
