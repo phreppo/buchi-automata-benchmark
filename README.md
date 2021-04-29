@@ -1,11 +1,13 @@
 # buchi-automata-benchmark
 
-A collection of Büchi automata for language inclusion benchmarking.
-The automata are represented using the `.ba` format.
-The official description of the format, written by its authors, can be found at
+A collection of Büchi automata (BA) for language inclusion benchmarking.
+The BAs contained in this repository have been used to benchmark the
+[bait](https://github.com/parof/bait) tool.
+The automata are represented using the `.ba` format, and its official
+description, written by its authors, can be found at
 [http://languageinclusion.org/doku.php?id=tools#the_ba_format](http://languageinclusion.org/doku.php?id=tools#the_ba_format).
 Other tools, for example [RABIT](http://languageinclusion.org/doku.php?id=tools#rabit_and_reduce_v25),
-accept the same input format.
+accept the same format.
 The automata are contained in the `benchmark` folder, and we collected them
 from various sources.
 Here's a brief description of the `benchmark` folder:
