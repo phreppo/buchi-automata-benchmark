@@ -37,4 +37,4 @@ Here's a brief description of the `benchmark` folder:
   program correctness using automata-based reasoning and that reduces
   termination problems to inclusion problems between BAs.
   The automata can be found at
-  [https://github.com/ultimate-pa/automata-benchmarks](https://github.com/ultimate-pa/automata-benchmarks)
+  [https://github.com/ultimate-pa/automata-benchmarks](https://github.com/ultimate-pa/automata-benchmarks).
