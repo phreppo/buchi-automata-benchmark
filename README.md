@@ -6,7 +6,7 @@ from various sources.
 Here's a brief description of the `benchmark` folder:
 
 * `benchmark/contrived-family`: contains the scripts to generate families
-  of automata that are discussed in the paper.
+  of automata.
 * `benchmark/rabit`: verification tasks as defined by the
   [RABIT](http://languageinclusion.org/doku.php?id=tools#rabit_and_reduce_v25)
   tool.
