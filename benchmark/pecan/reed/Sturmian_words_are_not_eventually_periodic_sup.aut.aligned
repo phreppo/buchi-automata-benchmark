@@ -1,0 +1,13 @@
+VAR_MAP: {'a': ['__ap1080', '__ap1081'], 'p': ['__ap1082', '__ap1083']}
+HOA: v1
+States: 1
+Start: 0
+AP: 4 "__ap1080" "__ap1081" "__ap1082" "__ap1083"
+acc-name: all
+Acceptance: 0 t
+properties: trans-labels explicit-labels state-acc complete
+properties: deterministic
+--BODY--
+State: 0
+[t] 0
+--END--

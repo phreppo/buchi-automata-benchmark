@@ -1,0 +1,13 @@
+VAR_MAP: {'i': ['__ap1720', '__ap1721'], 'j': ['__ap1722', '__ap1723']}
+HOA: v1
+States: 1
+Start: 0
+AP: 4 "__ap1720" "__ap1721" "__ap1722" "__ap1723"
+acc-name: Buchi
+Acceptance: 1 Inf(0)
+properties: trans-labels explicit-labels state-acc colored
+properties: deterministic
+--BODY--
+State: 0 {0}
+[!0&!1&!2&!3 | !0&1&!2&3 | 0&!1&2&!3] 0
+--END--

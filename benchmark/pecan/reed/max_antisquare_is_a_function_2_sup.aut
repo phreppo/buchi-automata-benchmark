@@ -1,8 +1,8 @@
-VAR_MAP: {'n': ['__ap832', '__ap833'], 'm': ['__ap834', '__ap835']}
+VAR_MAP: {'n': ['__ap1472', '__ap1473'], 'm': ['__ap1474', '__ap1475']}
 HOA: v1
 States: 1
 Start: 0
-AP: 4 "__ap832" "__ap833" "__ap834" "__ap835"
+AP: 4 "__ap1472" "__ap1473" "__ap1474" "__ap1475"
 acc-name: Buchi
 Acceptance: 1 Inf(0)
 properties: trans-labels explicit-labels state-acc colored

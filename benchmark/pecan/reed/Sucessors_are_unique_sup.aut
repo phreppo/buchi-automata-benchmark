@@ -1,8 +1,8 @@
-VAR_MAP: {'y': ['__ap492', '__ap493'], 'z': ['__ap494', '__ap495']}
+VAR_MAP: {'y': ['__ap720', '__ap721'], 'z': ['__ap722', '__ap723']}
 HOA: v1
 States: 1
 Start: 0
-AP: 4 "__ap492" "__ap493" "__ap494" "__ap495"
+AP: 4 "__ap720" "__ap721" "__ap722" "__ap723"
 acc-name: Buchi
 Acceptance: 1 Inf(0)
 properties: trans-labels explicit-labels state-acc colored
